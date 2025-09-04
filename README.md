@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario-linkedin/](https://www.linkedin.com/in/david-jair-flores-anrango-210879249/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tu-usuario-linkedin/](www.linkedin.com/in/david-jair-flores-anrango-210879249)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Deyvidfloo778)  
 
 # 💻 Tech Stack:
