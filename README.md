@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-jair-flores-anrango-210879249)  
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Deyvidfloo778)  
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white)](https://www.canva.com/design/DAF25uZHTe0/NjMKweB1hznnaw9hkFGx7Q/edit?utm_content=DAF25uZHTe0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+[![Curriculum](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white)](https://www.canva.com/design/DAF25uZHTe0/NjMKweB1hznnaw9hkFGx7Q/edit?utm_content=DAF25uZHTe0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 
 
 # 💻 Tech Stack:
